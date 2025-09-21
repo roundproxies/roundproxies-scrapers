@@ -2,6 +2,8 @@
 
 This scraper is using Python, requests, and BeautifulSoup libraries to scrape product data from etsy.com.
 
+Full tutorial: https://roundproxies.com/blog/reddit/
+
 The scraping code is located in the `etsy_scraper.py` file. It's fully documented and simplified for educational purposes with built-in rate limiting, error handling, and respectful scraping practices.
 
 This scraper scrapes:
